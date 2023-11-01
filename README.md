@@ -7,7 +7,6 @@ The purpose of this project is to demonstrate OCR on invoice data.
 
 --------------------------------------------------------------------------------
 Use pretrained model for following weights
-Use pretrained model files for following fields
 ```
 Customer_Name
 Invoice_Date

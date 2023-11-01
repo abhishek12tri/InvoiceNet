@@ -1,7 +1,8 @@
 ![InvoiceNet Logo](_images/logo.png)
 
 
-This project was developed for interview purposes and the development credit goes to [naiveHobo](https://github.com/naiveHobo). The purpose of this project is to demonstrate OCR on invoice data.
+This project was developed for interview purposes and the development credit goes to [naiveHobo](https://github.com/naiveHobo). 
+The purpose of this project is to demonstrate OCR on invoice data.
 --------------------------------------------------------------------------------
 
 Deep neural network to extract intelligent information from invoice documents.

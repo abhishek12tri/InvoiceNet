@@ -3,7 +3,20 @@
 
 This project was developed for interview purposes and the development credit goes to [naiveHobo](https://github.com/naiveHobo). 
 The purpose of this project is to demonstrate OCR on invoice data.
+
 --------------------------------------------------------------------------------
+Use pretrained model for following weights
+Use pretrained model files for following fields
+```
+Customer_Name
+Invoice_Date
+Invoice_Number
+Order_Date
+Order_ID
+Seller_Info
+Product_Name
+Total_Price
+```
 
 Deep neural network to extract intelligent information from invoice documents.
 
